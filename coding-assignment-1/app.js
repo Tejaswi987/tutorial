@@ -11,7 +11,7 @@ const app = express();
 app.use(express.json());
 
 let database = null;
-//First change to push
+
 //let resultDate = dateformat(new Date(2020, 2, 8), "yyyy-MM-dd");
 //console.log(resultDate);
 
